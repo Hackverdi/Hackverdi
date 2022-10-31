@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Pentesting,Exploit development,Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram:hackverdi_t
-Mail:terlanhaqverdi@icloud.com
+Mail:terlanhaqverdi@icloud.com linkedin:https://www.linkedin.com/in/t%C3%A9rlan-haqverdi-3839a8239/
 
 
 <!---
