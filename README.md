@@ -2,8 +2,10 @@
 - 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning Pentesting,Exploit development,Python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Instagram:hackverdi_t
-Mail:terlanhaqverdi@icloud.com linkedin:https://www.linkedin.com/in/t%C3%A9rlan-haqverdi-3839a8239/
+- 📫 How to reach me 
+- Instagram:hackverdi_t
+- Mail: terlanhaqverdi@icloud.com 
+- Linkedin: https://www.linkedin.com/in/t%C3%A9rlan-haqverdji-839a823j9/
 
 
 <!---
