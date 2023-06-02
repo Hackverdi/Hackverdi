@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 - Instagram:hackverdi_t
 - Mail: terlanhaqverdi@icloud.com 
-- Linkedin: https://www.linkedin.com/in/t%C3%A9rlan-haqverdji-839a823j9/
+- Linkedin: https://www.linkedin.com/in/tərlan-haqverdi-3839a8239
 
 
 <!---
